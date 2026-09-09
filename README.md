@@ -1,4 +1,4 @@
-<img src="assets/AppLogo.png" width="center"/>
+<p align="center"><img src="assets/AppLogo.png" width="300"/></p>
 <h1 align="center">starkill</h1>
 <p align="center">
   <strong>An Android player with simple & beautiful design</strong><br>
