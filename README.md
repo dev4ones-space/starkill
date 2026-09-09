@@ -10,3 +10,11 @@
   <img src="assets/PlayerView.png" width="20%"/>
   <img src="assets/FullscreenLyricsModeView.png" width="20%"/>
 </p>
+
+# Features
+- **Letter-by-letter lyrics** _(smooth & optimized)_
+- **Hi-Res Lossless playback**
+- **Tag system** _(only trough remote library)_
+- **Playful animated M3E interface** _(M3E - Material 3 Expressive)_
+- **Remote library && streaming from custom libraries support** _(self hosted library with minimal setup)_
+- **Lightweight** _(by performance && app size)_
