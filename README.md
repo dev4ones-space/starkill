@@ -5,10 +5,10 @@
   Material 3 Expressive, Apple Music like lyrics, streaming from self-hosted
 </p>
 <p align="center">
-  <img src="assets/MainPage.png" width="25%"/>
-  <img src="assets/AlbumView.png" width="25%"/>
-  <img src="assets/PlayerView.png" width="25%"/>
-  <img src="assets/FullscreenLyricsModeView.png" width="25%"/>
+  <img src="assets/MainPage.png" width="24%"/>
+  <img src="assets/AlbumView.png" width="24%"/>
+  <img src="assets/PlayerView.png" width="24%"/>
+  <img src="assets/FullscreenLyricsModeView.png" width="24%"/>
 </p>
 
 # Features
