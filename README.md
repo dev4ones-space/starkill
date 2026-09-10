@@ -20,3 +20,5 @@
 - **Lightweight** _(by performance && app size)_
 - **Build-in libraries, includes artists like Ye** _(by going to "Settings" -> "Libraries" -> Click button "Build-in Libraries" -> "Ye/Kanye (Full)")_
 - **Listening statistics** _(how much was spent listening to artist/playlist/track/album per day/weeks/months/all time)_
+
+#### All releases support any Android architecture _(like v8, v7a, x86_64 and other)_
