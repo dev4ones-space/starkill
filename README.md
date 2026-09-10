@@ -19,3 +19,4 @@
 - **Remote library & streaming from them support** _(self hosted library with minimal setup)_
 - **Lightweight** _(by performance && app size)_
 - **Build-in libraries, includes artists like Ye** _(by going to "Settings" -> "Libraries" -> Click button "Build-in Libraries" -> "Ye/Kanye (Full)")_
+- **Listening statistics** _(how much was spent listening to artist/playlist/track/album per day/weeks/months/all time)_
