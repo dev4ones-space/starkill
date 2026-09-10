@@ -18,3 +18,4 @@
 - **Playful animated M3E interface** _(Material 3 Expressive)_
 - **Remote library & streaming from them support** _(self hosted library with minimal setup)_
 - **Lightweight** _(by performance && app size)_
+- **Build-in libraries, includes artists like Ye** _(by going to "Settings" -> "Libraries" -> Click button "Build-in Libraries" -> "Ye/Kanye (Full)")_
