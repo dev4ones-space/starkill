@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/AppLogo.png" width="175"/></p>
 <h1 align="center">starkill</h1>
 <p align="center">
-  <strong>A Android player with simple & animated design</strong><br>
+  <strong>A Android local music player with simple & animated design</strong><br>
   Material 3 Expressive, Apple Music like lyrics, streaming from self-hosted
 </p>
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 # Features
-- **Letter-by-letter lyrics** 
+- **Letter-by-letter lyrics** _(Apple Music 1:1)_
 - **Hi-Res Lossless playback**
 - **Tag system** _(only trough remote library if supported so)_
 - **Playful animated M3E interface** _(Material 3 Expressive)_
